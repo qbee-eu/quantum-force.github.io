@@ -14,9 +14,9 @@ keep_files:
 
 
 # Site settings
-title: Quantum-Force
+title: QBee-eu
 subtitle: "Building the future, together"
-url: "https://quantum-force.github.io" # the base hostname & protocol for your site
+url: "https://qbee-eu.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "" # /airspace-jekyll"
 cover: "/assets/cover.png"
