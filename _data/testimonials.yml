@@ -3,7 +3,5 @@
   testimonial: "Looking forward for collaboration"
   image: img/testimonials/tm1.jpg
 
-- name: Jose Duato
-  title: Professor UPV
-  testimonial: "Novel initiative"
-  image: img/testimonials/tm2.jpg
+#  testimonials "Novel initiative"
+#  name: Eamonn Darcy, Jose Duato, Benno de Boer, Zaid Al-Ars
